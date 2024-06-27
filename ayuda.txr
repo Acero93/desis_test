@@ -1,0 +1,16 @@
+/project-root
+    /controllers
+        VotacionController.php
+    /models
+        Votacion.php
+        Database.php
+    /views
+        index.html
+        results.html
+    /assets
+        /js
+            main.js
+        /css
+            styles.css
+    index.php
+    .htaccess
